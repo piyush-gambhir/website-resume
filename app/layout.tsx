@@ -1,13 +1,12 @@
-import type { Metadata } from "next";
-import { GeistSans } from "geist/font/sans";
-
 import "./globals.css";
 
-const inter = GeistSans;
+import type { Metadata } from "next";
+
+import { Inter } from "@/fonts/fonts";
 
 export const metadata: Metadata = {
-  title: "Piyush Gambhir • Computer Science Engineer",
-  description: "",
+  title: "Next.JS Boilerplate",
+  description: "Next.JS Boilerplate with TypeScript and Tailwind CSS.",
 };
 
 export default function RootLayout({
@@ -17,11 +16,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${inter.className} w-full h-efull min-h-screen antialiased`}
-      >
-        {children}
-      </body>
+      <body className={Inter.className}>{children}</body>
     </html>
   );
 }

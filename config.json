@@ -1,0 +1,122 @@
+{
+  "personal_information": {
+    "name": "Piyush Gambhir",
+    "email": "developer.piyushgambhir@gmail.com",
+    "phone": "+91 8377096312",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
+    },
+    "website": "http://piyushgambhir.vercel.app",
+    "linkedin": "https://www.linkedin.com/in/gambhirpiyush/",
+    "github": "https://github.com/piyush-gambhir",
+    "leetcode": "https://leetcode.com/piyushgambhir/",
+    "twitter": "",
+    "instagram": "",
+    "avatar": "http://piyushgambhir.vercel.app/avatar.jpg",
+    "occupation": "Software Engineer",
+    "description": "A dedicated and efficient software engineer with a strong background in full-stack web development and artificial intelligence."
+  },
+  "education": [
+    {
+      "institution": "The NorthCap University",
+      "degree": "B.Tech in Computer Science",
+      "start_date": "August 2021",
+      "end_date": "May 2025",
+      "grade": "8.87 / 10 (Till 5th Semester)",
+      "details": "",
+      "detailed_description": "Currently pursuing a Bachelor of Technology degree in Computer Science with a strong focus on software engineering and artificial intelligence. Achieved a CGPA of 8.87 till the fifth semester."
+    },
+    {
+      "institution": "St. Mary's School",
+      "degree": "CBSE (Class XII)",
+      "start_date": "",
+      "end_date": "July 2021",
+      "grade": "87.0%",
+      "details": "",
+      "detailed_description": "Completed high school education with a focus on science and mathematics, achieving a percentage score of 87.0% in the CBSE Class XII board examinations."
+    },
+    {
+      "institution": "St. Mary's School",
+      "degree": "CBSE (Class X)",
+      "start_date": "",
+      "end_date": "May 2019",
+      "grade": "88.3%",
+      "details": "",
+      "detailed_description": "Completed secondary education, achieving a percentage score of 88.3% in the CBSE Class X board examinations."
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Spyne",
+      "position": "Software Engineer Intern",
+      "start_date": "January 2024",
+      "end_date": "Present",
+      "responsibilities": [
+        "Built robust dealer websites using Next.js and Express (Sails), incorporating features such as inventory management, search functionality, and lead capture forms."
+      ],
+      "skills": [
+        "Next.js",
+        "Express",
+        "Sails",
+        "Inventory Management",
+        "Search Functionality"
+      ]
+    },
+    {
+      "company": "Spyne",
+      "position": "Software Engineer Intern",
+      "start_date": "June 2023",
+      "end_date": "August 2023",
+      "responsibilities": [
+        "Developed full-stack web applications using the Next.js framework for the frontend and the Express (Sails) framework for the backend, along with SQL for data storage.",
+        "Designed and implemented tools for internal usage by non-technical teams, resulting in a 20% improvement in user productivity.",
+        "Worked on web scraping tasks to collect and process data, which was used to improve the company’s AI models."
+      ],
+      "skills": ["Next.js", "Express", "SQL", "Web Scraping", "AI Models"]
+    }
+  ],
+  "skills": [
+    "Java",
+    "Python",
+    "Next.js",
+    "TailwindCSS",
+    "TypeScript",
+    "Express.js",
+    "FastAPI",
+    "NextAuth",
+    "Prisma",
+    "Git",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  "certifications": [],
+  "projects": [
+    {
+      "name": "ChatGPT Clone",
+      "description": "Developed an end-to-end ChatGPT clone using cutting-edge technologies, including Next.js for frontend, Tailwind CSS for styling, OpenAI API for natural language processing, and Prisma for database interactions.",
+      "technologies": ["Next.js", "TailwindCSS", "OpenAI API", "Prisma"],
+      "start_date": "",
+      "end_date": "",
+      "code_link": "https://github.com/piyush-gambhir/chatgpt-clone",
+      "deployed_link": "https://clone-openai-chatgpt.vercel.app",
+      "thumbnail": "http://piyushgambhir.vercel.app/thumbnails/chatgpt-clone.jpg"
+    },
+    {
+      "name": "Netflix Clone",
+      "description": "Developed an end-to-end Netflix clone using Next.js for frontend, Tailwind CSS for styling, and Prisma for database interactions. Implemented secure user authentication using NextAuth.js.",
+      "technologies": ["Next.js", "TailwindCSS", "Prisma", "NextAuth.js"],
+      "start_date": "",
+      "end_date": "",
+      "code_link": "https://github.com/piyush-gambhir/netflix-clone",
+      "deployed_link": "https://website-clone-netflix.vercel.app",
+      "thumbnail": "http://piyushgambhir.vercel.app/thumbnails/netflix-clone.jpg"
+    }
+  ],
+  "other": {
+    "languages": ["English", "Hindi"],
+    "interests": ["Open Source Contribution", "Machine Learning", "Traveling"]
+  }
+}
